@@ -1,10 +1,9 @@
-Code for a creating a docker app with Flask and MySQL tutorial
+# This is a fork !
 
-Refer to [blog post about creating a flask-mysql app with docker](https://stavshamir.github.io/python/dockerizing-a-flask-mysql-app-with-docker-compose/)
+This project is a fork of [Stav Shamir](https://github.com/stavshamir/docker-tutorial) adapted for a course purpose
+
+According to original README.md, this project refers to [blog post about creating a flask-mysql app with docker](https://stavshamir.github.io/python/dockerizing-a-flask-mysql-app-with-docker-compose/)
 
 ## GitLab CI
 
-The [.gitlab-ci.yml](.gitlab-ci.yml) file can be used in GitLab to build,
-test, and deploy the code, as in https://gitlab.com/TrendDotFarm/docker-tutorial
-For more information, read the [Docker Compose Integration to GitLab
-CI](GitLab-CI.md) guide.
+I keep it in place, but I dont use it for now. Feel free to get more information on the original GitHub Account
